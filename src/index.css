@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary:  #165620;
+    --color-secondary: #FBEADC;
+    --color-light: #51A501;
+    --color-universe: #FFE35A;
+    --color-dark: #000000;
+    --color-Nav: #165620;
+}
+
+@layer components{
+    .contaniner{
+       center: true;
+       padding:"1 rem";
+       }
+}
+
+
+
+
+/* @utility container {
+
+ 
+
+    @media (width >= 640px) {
+        max-width: 640px;
+    }
+    @media (width >= 768px) {
+        max-width: 768px;
+    }
+    @media (width >= 1024px) {
+        max-width: 1024px;
+    }
+} */
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: "Raelway", sans-serif;
+}
