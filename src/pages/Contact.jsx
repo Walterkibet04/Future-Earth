@@ -1,9 +1,9 @@
 import React from 'react'
-
+import HeroContact from '../components/HeroContact'
 const Contact = () => {
   return (
     <div>
-      <h1>Contact Us</h1>
+      <HeroContact />
     </div>
   )
 }

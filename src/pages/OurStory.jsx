@@ -1,9 +1,9 @@
 import React from 'react'
-
+import HeroStory from '../components/HeroStory'
 const OurStory = () => {
   return (
     <div>
-      <h1>Our Story</h1>
+      <HeroStory />
     </div>
   )
 }
