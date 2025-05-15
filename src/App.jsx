@@ -1,12 +1,10 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import { BrowserRouter, Route , Routes} from 'react-router-dom'
 import Home from './pages/Home'
 import SustainableLiving from './pages/SustainableLiving'
 import Contact from './pages/Contact'
 import OurStory from './pages/Ourstory'
-
+import MenuPage from './components/MenuPage'
 function App() {
 
   return (
@@ -17,6 +15,7 @@ function App() {
            <Route path='/SustainableLiving' element={<SustainableLiving />}/>
            <Route path='/OurStory' element={<OurStory />}/>
            <Route path='/Contact' element={<Contact />}/>
+           <Route path='/menu' element={<MenuPage/>}/>
          </Routes>
       </BrowserRouter>
     </>

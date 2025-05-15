@@ -1,6 +1,7 @@
 import React from 'react'
 import houseImg from '../assets/images/houseImg.png'
 import Nav from './Shared/Nav'
+import Navigation from './Shared/Navigation'
 
 const Hero = () => {
   return (

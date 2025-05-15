@@ -41,11 +41,11 @@ const Partners = () => {
         </div>
 
         <div className="mt-12">
-          <button className="bg-primary text-white px-8 py-3 text-lg font-medium hover:bg-[#104522] transition rounded">
+          <button className="bg-primary text-white px-8 py-3 text-lg font-medium ">
             LEARN MORE →
           </button>
-        </div>
-      </div>
+        </div>             
+      </div>   
     </div>
   )
 }
