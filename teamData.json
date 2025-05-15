@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Walter kibet",
+    "role": "Lead Developer Creative Director / Interactive ",
+    "imageUrl": "/team.png"
+  },
+  {
+    "name": "John Smith",
+    "role": "Full Stack Developer",
+    "imageUrl": "/team.png"
+  },
+  {
+    "name": "Amina Yusuf",
+    "role": "Product Manager",
+    "imageUrl": "/team.png"
+  },
+  {
+    "name": "Carlos Reyes",
+    "role": "UX Researcher",
+    "imageUrl": "/team.png"
+  },
+  {
+    "name": "Amina Abdi",
+    "role": "Product Designer",
+    "imageUrl": "/team.png"
+  },
+  {
+    "name": "Carlos Reyes",
+    "role": "UX Researcher",
+    "imageUrl": "/team.png"
+  }
+]

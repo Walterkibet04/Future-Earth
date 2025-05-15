@@ -7,6 +7,8 @@
     --color-universe: #FFE35A;
     --color-dark: #000000;
     --color-Nav: #165620;
+    --color-border: #CC7F6B;
+    --color-card: #FFF6EE;
 }
 
 @layer components{
