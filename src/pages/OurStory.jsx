@@ -5,6 +5,7 @@ import WhatWeDo from '../components/WhatWeDo'
 import OurTeam from '../components/OurTeam'
 import Footer from '../components/Shared/Footer'
 import AdvisoryBoard from '../components/AdvisoryBoard'
+import NewsSection from '../components/NewsSection'
 const OurStory = () => {
   return (
     <div>
@@ -13,6 +14,7 @@ const OurStory = () => {
       <WhatWeDo />
       <OurTeam />
       <AdvisoryBoard />
+      <NewsSection />
       <Footer />
     </div>
   )
