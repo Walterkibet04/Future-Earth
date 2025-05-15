@@ -1,6 +1,5 @@
 import React from 'react'
 import houseImg from '../assets/images/houseImg.png'
-import Nav from './Shared/Nav'
 import Navigation from './Shared/Navigation'
 
 const Hero = () => {
@@ -9,7 +8,7 @@ const Hero = () => {
    
     <div className="relative  text-white min-h-screen flex items-center justify-center overflow-hidden">
       <div className="absolute inset-0 bg-[url('/Home.png')] bg-cover bg-center">
-        <Nav />
+        <Navigation />
       <div className="relative z-10 container mx-auto px-6 py-16 flex flex-col-reverse lg:flex-row items-center gap-10">
         {/* Text Section */}
         <div className="lg:w-1/2 text-center lg:text-left">

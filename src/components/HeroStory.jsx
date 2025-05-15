@@ -1,12 +1,12 @@
 import React from 'react'
 import HeroBanner from './Shared/HeroBanner'
-import Nav from './Shared/Nav'
+import Navigation from './Shared/Navigation'
 
 const HeroStory = () => {
   return (
      <div className='relative'>
       <div className="absolute top-0 left-0 w-full z-20">
-        <Nav />
+        <Navigation />
       </div>
       <HeroBanner
         title="Our Story"

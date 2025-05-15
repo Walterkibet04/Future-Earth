@@ -61,7 +61,9 @@ const MenuPage = () => {
     ];
     
   return (
-    <div className="relative min-h-screen bg-black text-white font-sans">
+    <div className="relative min-h-screen bg-black text-white font-sans bg-cover bg-center"
+      style={{ backgroundImage: 'url(/wooden.png)' }} 
+    >
           {/* Header */}
           <header className="flex justify-between items-center p-4 lg:p-8">
             <img src={Logo} alt="Future Earth Logo" className="h-10 w-auto" />
