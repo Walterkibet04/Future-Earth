@@ -2,7 +2,7 @@ import React from 'react'
 import teamData from '/teamData.json';
 const OurTeam = () => {
   return (
-    <section className="py-16 bg-secondary bg-cover bg-center"
+    <section className="py-16 m-7 bg-secondary bg-cover bg-center"
      style={{ backgroundImage: 'url(/wooden.png)' }} 
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">

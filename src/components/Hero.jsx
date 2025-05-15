@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <>
    
-    <div className="relative text-white min-h-screen flex items-center justify-center overflow-hidden">
+    <div className="relative  text-white min-h-screen flex items-center justify-center overflow-hidden">
       <div className="absolute inset-0 bg-[url('/Home.png')] bg-cover bg-center">
         <Nav />
       <div className="relative z-10 container mx-auto px-6 py-16 flex flex-col-reverse lg:flex-row items-center gap-10">

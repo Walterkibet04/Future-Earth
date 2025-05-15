@@ -17,7 +17,9 @@ const newsItems = [
 ];
 const NewsSection = () => {
   return (
-    <section className="bg-primary py-16 m-7">
+    <section className="bg-primary py-16 m-7 bg-cover bg-center"
+     style={{ backgroundImage: 'url(/wooden.png)' }} 
+    >
       <div className="max-w-screen-xl mx-auto px-4 flex flex-col lg:flex-row items-start justify-between gap-8">
         {/* Left Content */}
         <div className="text-white max-w-md">

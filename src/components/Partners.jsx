@@ -5,7 +5,7 @@ import Enviro from "../assets/images/Icon-4.png"
 import cane from "../assets/images/Icon-5.png"
 const Partners = () => {
   return (
-    <div className="bg-secondary py-16 px-4 relative">
+    <div className="bg-secondary m-7 py-16 px-4 relative">
       <div className="max-w-6xl mx-auto text-center">
         <h2 className="text-4xl sm:text-5xl font-bold text-primary mb-4">OUR PARTNERS</h2>
         <p className="text-lg text-dark mb-12">

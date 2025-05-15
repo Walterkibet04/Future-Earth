@@ -2,7 +2,7 @@ import React from 'react'
 
 const Ongoing = () => {
   return (
-     <div className="bg-primary py-16 px-4 text-center text-white relative overflow-hidden">
+     <div className="bg-primary m-7 py-16 px-4 text-center text-white relative overflow-hidden">
       <div className="max-w-5xl mx-auto">
         <h2 className="text-4xl font-bold mb-6">ONGOING PROJECTS</h2>
         <p className="text-lg leading-relaxed">

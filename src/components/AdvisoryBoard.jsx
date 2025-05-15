@@ -3,7 +3,7 @@ import teamData from '/teamData.json';
 
 const AdvisoryBoard = () => {
   return (
-    <section className="py-16  bg-primary bg-cover bg-center"
+    <div className="py-16 m-7 bg-primary bg-cover bg-center"
          style={{ backgroundImage: 'url(/wooden.png)' }} 
         >
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
@@ -46,7 +46,7 @@ const AdvisoryBoard = () => {
               </button>
             </div>
           </div>
-        </section>
+    </div>
   )
 }
 

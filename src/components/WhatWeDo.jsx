@@ -2,7 +2,7 @@ import React from 'react'
 import Kids from "../assets/images/Kids.png"
 const WhatWeDo = () => {
   return (
-    <div className="relative  overflow-hidden">
+    <div className="relative  overflow-hidden mx-7">
       {/* Background */}
       <div className="absolute inset-0 flex flex-col lg:flex-row">
         {/* Top on mobile, Left on desktop */}

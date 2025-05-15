@@ -1,5 +1,4 @@
 import React from 'react'
-import Solar_image from '../assets/images/Solar_image.png'
 
 const ProductSection = () => {
 

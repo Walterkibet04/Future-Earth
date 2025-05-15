@@ -3,7 +3,7 @@ import houseDesign from "../assets/images/houseDesign.png"
 import video from "../assets/images/Play_video.png"
 const HouseDesign = () => {
   return (
-    <div className='bg-white w-full py-12 px-30'>
+    <div className='bg-white w-full py-12 px-7'>
       <div className="flex flex-col md:flex-row w-full h-full">
         
         {/* left side Video*/}

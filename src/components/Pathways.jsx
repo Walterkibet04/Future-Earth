@@ -2,7 +2,7 @@ import React from 'react'
 import forest from "../assets/images/forest.png"
 const Pathways = () => {
   return (
-   <div className='bg-white w-full py-12 px-30'>
+   <div className='bg-white w-full py-12 px-7'>
          <div className="flex flex-col md:flex-row w-full h-full">
            
            {/* Text Content */}

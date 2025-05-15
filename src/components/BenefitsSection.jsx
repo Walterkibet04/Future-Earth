@@ -3,7 +3,7 @@ import React from 'react'
 const BenefitsSection = () => {
  return (
     <div
-      className="bg-cover bg-center bg-dark text-white py-20 mx-30 md:px-16"
+      className="bg-cover bg-center bg-dark text-white py-20 mx-7 md:px-16"
       style={{ backgroundImage: "url('/wooden.png')" }} 
       >
       <div className="max-w-6xl mx-auto text-center">
